@@ -1,0 +1,76 @@
+.product {
+  background-color: white;
+  width: 170px;
+  border-radius: 12px;
+  -webkit-box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.75);
+}
+
+.product__details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product__img {
+  width: 90%;
+  height: 150px;
+  padding: 6px;
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+.product__name {
+  font-size: 15px;
+  padding: 5px;
+  margin: 0;
+  min-height: 50px;
+  color: black;
+  font-weight: 500;
+  text-align: center;
+  border-bottom: 1px solid white;
+  text-transform: uppercase;
+}
+
+.product__price {
+  font-size: 18px;
+  margin: 0.5px 0;
+  color: var(--color-principal);
+  font-weight: 500;
+}
+
+.product__stock {
+  margin-top: 4px;
+  font-size: 12px;
+  color: black;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.AddCartBtn {
+  width: 101%;
+  height: 40px;
+  border-radius: 0px 0px 12px 12px;
+  background-color: var(--color-principal);
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+.NoDisponibleBtn{
+  width: 101%;
+  height: 40px;
+  border-radius: 0px 0px 12px 12px;
+  background-color: rgb(110, 110, 110);
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+
+.AddCartBtn:hover {
+  border: 2px solid var(--color-principal);
+  background-color: white;
+  color: var(--color-principal);
+}

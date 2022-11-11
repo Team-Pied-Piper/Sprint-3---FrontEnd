@@ -1,0 +1,124 @@
+{
+  "productos": [
+    {
+      "nombre": "Taza de cerámica",
+      "descripcion": "Silicon Valley Pied Piper - Taza de cerámica (15 oz)",
+      "precio": "20000",
+      "stock": 15,
+      "img": "https://m.media-amazon.com/images/I/61rYTiHLSKL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1667943977484
+    },
+    {
+      "nombre": "Mens Golf Polo ",
+      "descripcion": "Silicon Valley Pied Piper Mens Golf Polo Shirts",
+      "precio": "55000",
+      "stock": 23,
+      "img": "https://m.media-amazon.com/images/I/51dqj3nsvPL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1667944024176
+    },
+    {
+      "nombre": "Pegatina logo",
+      "descripcion": "Pegatina de silicona con logo de Pied Piper para coche, pared, ordenador portátil, celda, camión, para ventanas, coches, camiones",
+      "precio": "5000",
+      "stock": "100",
+      "img": "https://m.media-amazon.com/images/I/31DJWR+KZrL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1667944064160
+    },
+    {
+      "nombre": "STEPHN HARRY US-Men's",
+      "descripcion": "STEPHN HARRY US-Men's Silicon Valley Pied Piper Logo Tee Shirt.",
+      "precio": "39000",
+      "stock": "0",
+      "img": "https://m.media-amazon.com/images/I/51Vd9fv6ysL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1667944252647
+    },
+    {
+      "nombre": "STEPHN HARRY US-Women's",
+      "descripcion": "STEPHN HARRY US-Women's Silicon Valley Pied Piper Logo T-Shirt Shirt.",
+      "precio": "39000",
+      "stock": 55,
+      "img": "https://m.media-amazon.com/images/I/51UDCj-rIIL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1667944972952
+    },
+    {
+      "nombre": "Baby One Piece",
+      "descripcion": "Silicon Valley Baby One Piece \"Pied Piper logotipo Bodysuit",
+      "precio": "39000",
+      "stock": "25",
+      "img": "https://m.media-amazon.com/images/I/61uiizF2QDL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1667945014888
+    },
+    {
+      "nombre": "Little Art Men's ",
+      "descripcion": "Little Art Men's Silicon Valley Pied Piper Logo T-Shirt",
+      "precio": "39000",
+      "stock": 40,
+      "img": "https://m.media-amazon.com/images/I/61MmghLlfmL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1667945091696
+    },
+    {
+      "nombre": "buso ",
+      "descripcion": "buso hombre",
+      "precio": "65000",
+      "stock": "15",
+      "img": "https://m.media-amazon.com/images/I/613++xP1uLL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": 1668191087084
+    }
+  ],
+  "ventas": [
+    {
+      "id": 1000,
+      "fecha": "10/11/2022 - 9:23:28 p. m.",
+      "cantidad": 2,
+      "valor": 44000
+    },
+    {
+      "id": 1001,
+      "fecha": "10/11/2022 - 11:18:19 p. m.",
+      "cantidad": 2,
+      "valor": 78000
+    },
+    {
+      "id": 1002,
+      "fecha": "10/11/2022 - 11:19:27 p. m.",
+      "cantidad": 5,
+      "valor": 195000
+    },
+    {
+      "id": 1003,
+      "fecha": "10/11/2022 - 11:20:51 p. m.",
+      "cantidad": 1,
+      "valor": 55000
+    },
+    {
+      "id": 1004,
+      "fecha": "10/11/2022 - 11:22:23 p. m.",
+      "cantidad": 2,
+      "valor": 110000
+    },
+    {
+      "id": 1005,
+      "fecha": "10/11/2022 - 11:22:41 p. m.",
+      "cantidad": 5,
+      "valor": 195000
+    },
+    {
+      "id": 1006,
+      "fecha": "10/11/2022 - 11:22:58 p. m.",
+      "cantidad": 15,
+      "valor": 585000
+    },
+    {
+      "id": 1007,
+      "fecha": "10/11/2022 - 11:27:33 p. m.",
+      "cantidad": 2,
+      "valor": 78000
+    },
+    {
+      "id": 1008,
+      "fecha": "11/11/2022 - 12:49:37 p. m.",
+      "cantidad": 15,
+      "valor": 475000
+    }
+  ]
+}
